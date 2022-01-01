@@ -1,0 +1,94 @@
+{
+    "menu":[
+      {
+        "id"  : 1, 
+        "jenis": "Makanan" ,
+        "nama":"Nama :   Gado-gado",
+        "deskripsi": "Deskripsi :    Makanan khas jogjakarta",
+        "harga": "Harga :    10000",
+        "estimasi" : "Estimasi :   10 Menit ",
+        "gambar"   : "https://www.masakapahariini.com/wp-content/uploads/2019/01/gado-gado-MAHI-780x440.jpg"
+      },
+      {
+        "id"  : 2, 
+        "jenis": "Minuman",
+        "nama":"Nama :    Cendol Dawet",
+        "deskripsi": "Deskripsi :    Minuman jawa yang populer",
+        "harga": "Harga :   3000",
+        "estimasi" : "Estimasi  :  15 Menit ",
+        "gambar"   : "https://asset.kompas.com/crops/717Y5C_HPZU2nweoLZT7cQcKapY=/0x352:751x853/750x500/data/photo/2020/07/17/5f11041e59757.jpg"
+      },
+      {
+        "id": 3,
+        "jenis": "Makanan",
+        "nama":"Nama : Batagor",
+        "deskripsi": "Deskripsi :   Makanan Khas Bandung",
+        "harga": "Harga   : 120000",
+        "estimasi" : "Estimasi  : 20 Menit ",
+        "gambar"   : "https://www.resepkuerenyah.com/wp-content/uploads/2015/09/Cara-Membuat-Batagor-Bandung-Spesial-Enak.png.webp"
+      },
+      {
+        "id": 4,
+        "jenis": "Makanan" ,
+        "nama":"Nama :  Nasi Gandul",
+        "deskripsi": "Deskripsi :    Makanan Khas Pati",
+        "harga": " Harga :   10000 ",
+        "estimasi" : "Estimasi :   15 Menit",
+        "gambar"   : "https://img-global.cpcdn.com/recipes/fbd47fee71ea8e3e/680x482cq70/4-nasi-gandul-sego-gandul-khas-pati-resep-asli-foto-resep-utama.webp"
+      },
+      {
+        "id": 5,
+        "jenis": "Dessert" ,
+        "nama":"Nama : Biskuit",
+        "deskripsi": " Deskripsi : Makanan yang cocok banget buat penutup hidangan",
+        "harga": "Harga : 5000 ",
+        "estimasi" : "Estimasi : 20 Menit ",
+        "gambar"   : "https://static.republika.co.id/uploads/images/inpicture_slide/biskuit-ilustrasi-_160715070932-588.jpg"
+      },
+      {
+        "id": 6,
+        "jenis": "Minuman" ,
+        "nama":"Nama :     Kopi",
+        "deskripsi": "Deskripsi :     Teman dikala coding dan nugas",
+        "harga": "Harga :      5000 ",
+        "estimasi" : "Estimasi :    10 Menit ",
+        "gambar"   : "https://cdn.pixabay.com/photo/2017/05/12/08/29/coffee-2306471__340.jpg"
+      },
+      {
+        "id": 7,
+        "jenis": "Dessert" ,
+        "nama":"Nama :     Pie",
+        "deskripsi": "Deskripsi :     Rasanya yummy dimulut",
+        "harga": "Harga :      20000 ",
+        "estimasi" : "Estimasi :      10 Menit ",
+        "gambar"   : "https://cdn0-production-images-kly.akamaized.net/vKH7soX-jQr85or0AHlFcdEOHpM=/0x476:5184x3398/680x383/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3564692/original/015867900_1631072865-shutterstock_1996658666.jpg"
+      },
+      {
+        "id": 8,
+        "jenis": "Dessert" ,
+        "nama":"Nama :     permen",
+        "deskripsi": "Deskripsi :     Rasanya manis banget dilidah",
+        "harga": "Harga :     4000 ",
+        "estimasi" : "Estimasi :     5 Menit ",
+        "gambar"   : "https://thumb.viva.co.id/media/frontend/thumbs3/2015/04/02/305500_ilustrasi-permen_1265_711.jpg"
+      },
+      {
+        "id": 9,
+        "jenis": "Minuman" ,
+        "nama":"Nama :     Americano",
+        "deskripsi": "Deskripsi :     Favorit ketika di cafe",
+        "harga": "Harga :      20000 ",
+        "estimasi" : "Estimasi :     10 Menit ",
+        "gambar"   : "https://majalah.ottenstatic.com/uploads/2016/04/hot-black-coffee-1680x1050.jpg"
+      },
+      {
+        "id": 10,
+        "jenis": "Makanan",
+        "nama":"Nama :      Bakso pedas",
+        "deskripsi": "Deskripsi :      Makanan favorit ketika jalan-jalan",
+        "harga": "Harga :     15000 ",
+        "estimasi" : "Estimasi :     20 menit ",
+        "gambar"   : "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/08/29/198851879.jpg"
+      }
+    ]
+  }
